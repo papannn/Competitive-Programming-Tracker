@@ -13,3 +13,4 @@
 - Kattis - carrots [**AC**] (https://open.kattis.com/problems/carrots)
 - Kattis - r2 [**AC**] (https://open.kattis.com/problems/r2)
 - Kattis - thelastproblem [**AC**] (https://open.kattis.com/problems/thelastproblem)
+- UVa 11805 - Bafana Bafana [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2905)
