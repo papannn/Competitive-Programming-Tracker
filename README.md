@@ -26,7 +26,7 @@
 - UVa 11044 - Searching for Nessy [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1985)
 - UVa 11547 - Automatic Answer [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2542)
 - Kattis - different [**AC**] (https://open.kattis.com/problems/different)
-- Kattis - qaly [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/qaly)
+- Kattis - qaly [**AC**] (https://open.kattis.com/problems/qaly)
 - Kattis - tarifa [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/tarifa)
 - UVa 10055 - Hashmat the Brave Warrior [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
 
