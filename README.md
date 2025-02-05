@@ -24,7 +24,7 @@
 - Kattis - timeloop [**AC**] (https://open.kattis.com/problems/timeloop)
 - UVa 01124 - Celebrity Jeopardy [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=246&page=show_problem&problem=3565)
 - UVa 11044 - Searching for Nessy [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1985)
-- UVa 11547 - Automatic Answer [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2542)
+- UVa 11547 - Automatic Answer [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2542)
 - Kattis - different [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/different)
 - Kattis - qaly [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/qaly)
 - Kattis - tarifa [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/tarifa)
