@@ -6,6 +6,7 @@
 
 #### Chapter 1
 
+##### I/O + Sequences Only
 - Kattis - hello [**AC**] (https://open.kattis.com/problems/hello)
 - UVa 10071 - Back to High School Physics [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1012)
 - UVa 11614 - Etruscan Warriors Never Play Chess [**TLE**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2661)
@@ -16,3 +17,41 @@
 - UVa 11805 - Bafana Bafana [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2905)
 - UVa 12478 - Hardest Problem Ever (Easy) [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3922)
 - Kattis - faktor [**AC**] (https://open.kattis.com/problems/faktor)
+- Kattis - planina [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/planina)
+
+##### Repetition Only
+- Kattis - timeloop [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/timeloop)
+- UVa 01124 - Celebrity Jeopardy [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=246&page=show_problem&problem=3565)
+- UVa 11044 - Searching for Nessy [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1985)
+- UVa 11547 - Automatic Answer [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2542)
+- Kattis - different [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/different)
+- Kattis - qaly [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/qaly)
+- Kattis - tarifa [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/tarifa)
+- UVa 10055 - Hashmat the Brave Warrior [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
+
+##### Selection Only
+- Kattis - moscowdream [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/moscowdream)
+- Kattis - isithalloween [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/isithalloween)
+- Kattis - judgingmoose [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/judgingmoose)
+- Kattis - onechicken [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/onechicken)
+- Kattis - provincesandgold [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/provincesandgold)
+- Kattis - quadrant [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/quadrant)
+- Kattis - temperature [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/temperature)
+
+##### Multiple Test Cases + Selection
+- Kattis - oddities [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/odditites)
+- UVa 11172 - Relational Operators [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
+- UVa 12250 - Language Detection [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3402)
+- UVa 12372 - Packing for Holiday [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3794)
+- Kattis - eligibility [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/eligibility)
+- Kattis - helpaphd [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/helpaphd)
+- Kattis - leftbeehind [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/leftbeehind)
+- UVa 00621 - Secret Research [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=562)
+- UVa 11723 - Cost Cutting [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2827)
+- UVa 12289 - One-Two-Three [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3710)
+- UVa 12468 - Zapping [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3912)
+- UVa 12577 - Hajj-e-Akbar [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4022)
+- UVa 12646 - Zero or One [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=602&page=show_problem&problem=4375)
+- UVa 12917 - Prop hunt! [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=862&page=show_problem&problem=4796)
+- Kattis - nastyhacks [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/nastyhacks)
+- Kattis - numberfun [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/numberfun)
