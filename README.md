@@ -34,7 +34,7 @@
 - Kattis - moscowdream [**AC**] (https://open.kattis.com/problems/moscowdream)
 - Kattis - isithalloween [**AC**] (https://open.kattis.com/problems/isithalloween)
 - Kattis - judgingmoose [**AC**] (https://open.kattis.com/problems/judgingmoose)
-- Kattis - onechicken [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/onechicken)
+- Kattis - onechicken [**AC**] (https://open.kattis.com/problems/onechicken)
 - Kattis - provincesandgold [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/provincesandgold)
 - Kattis - quadrant [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/quadrant)
 - Kattis - temperature [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/temperature)
