@@ -28,7 +28,7 @@
 - Kattis - different [**AC**] (https://open.kattis.com/problems/different)
 - Kattis - qaly [**AC**] (https://open.kattis.com/problems/qaly)
 - Kattis - tarifa [**AC**] (https://open.kattis.com/problems/tarifa)
-- UVa 10055 - Hashmat the Brave Warrior [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
+- UVa 10055 - Hashmat the Brave Warrior [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
 
 ##### Selection Only
 - Kattis - moscowdream [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/moscowdream)
