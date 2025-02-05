@@ -18,7 +18,7 @@
 - UVa 12478 - Hardest Problem Ever (Easy) [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3922)
 - Kattis - faktor [**AC**] (https://open.kattis.com/problems/faktor)
 - Kattis - planina [*AC**] (https://open.kattis.com/problems/planina)
-- Kattis - romans [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/romans)
+- Kattis - romans [**AC**] (https://open.kattis.com/problems/romans)
 
 ##### Repetition Only
 - Kattis - timeloop [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/timeloop)
