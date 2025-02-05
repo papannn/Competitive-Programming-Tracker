@@ -31,7 +31,7 @@
 - UVa 10055 - Hashmat the Brave Warrior [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
 
 ##### Selection Only
-- Kattis - moscowdream [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/moscowdream)
+- Kattis - moscowdream [**AC**] (https://open.kattis.com/problems/moscowdream)
 - Kattis - isithalloween [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/isithalloween)
 - Kattis - judgingmoose [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/judgingmoose)
 - Kattis - onechicken [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/onechicken)
