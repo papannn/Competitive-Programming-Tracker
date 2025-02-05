@@ -32,7 +32,7 @@
 
 ##### Selection Only
 - Kattis - moscowdream [**AC**] (https://open.kattis.com/problems/moscowdream)
-- Kattis - isithalloween [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/isithalloween)
+- Kattis - isithalloween [**AC**] (https://open.kattis.com/problems/isithalloween)
 - Kattis - judgingmoose [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/judgingmoose)
 - Kattis - onechicken [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/onechicken)
 - Kattis - provincesandgold [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/provincesandgold)
