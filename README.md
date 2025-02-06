@@ -45,7 +45,7 @@
 - UVa 12250 - Language Detection [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3402)
 - UVa 12372 - Packing for Holiday [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3794)
 - Kattis - eligibility [**AC**] (https://open.kattis.com/problems/eligibility)
-- Kattis - helpaphd [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/helpaphd)
+- Kattis - helpaphd [**AC**] (https://open.kattis.com/problems/helpaphd)
 - Kattis - leftbeehind [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/leftbeehind)
 - UVa 00621 - Secret Research [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=562)
 - UVa 11723 - Numbering Roads [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2823)
