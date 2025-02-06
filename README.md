@@ -37,7 +37,7 @@
 - Kattis - onechicken [**AC**] (https://open.kattis.com/problems/onechicken)
 - Kattis - provincesandgold [**AC**] (https://open.kattis.com/problems/provincesandgold)
 - Kattis - quadrant [**AC**] (https://open.kattis.com/problems/quadrant)
-- Kattis - temperature [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/temperature)
+- Kattis - temperature [**AC**] (https://open.kattis.com/problems/temperature)
 
 ##### Multiple Test Cases + Selection
 - Kattis - oddities [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/odditites)
