@@ -40,7 +40,7 @@
 - Kattis - temperature [**AC**] (https://open.kattis.com/problems/temperature)
 
 ##### Multiple Test Cases + Selection
-- Kattis - oddities [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/odditites)
+- Kattis - oddities [**AC**] (https://open.kattis.com/problems/odditites)
 - UVa 11172 - Relational Operators [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
 - UVa 12250 - Language Detection [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3402)
 - UVa 12372 - Packing for Holiday [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3794)
