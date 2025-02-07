@@ -82,3 +82,18 @@
 - Kattis - stararrangements [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/stararrangements)
 - Kattis - thanos [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/thanos)
 - Kattis - zanzibar [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/zanzibar)
+
+#### Function
+- Kattis - mia [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/mia)
+- UVa 10424 - Love Calculator [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
+- UVa 11078 - Open Credit System [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2019)
+- UVa 11332 - Summing Digits [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2307)
+- Kattis - artichoke [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/artichoke)
+- UVa 01709 - Amalgamated Artichokes [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4782)
+- Kattis - digits [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2734)
+- UVa 11687 - Digits [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/digits)
+- Kattis - filip [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/filip)
+- Kattis - abc [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/abc)
+- Kattis - combinationlock [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/combinationlock)
+- UVa 10550 - Combination Lock [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491) 
+- Kattis - treasurehunt [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/treasurehunt)
