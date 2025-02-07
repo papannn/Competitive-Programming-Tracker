@@ -52,7 +52,7 @@
 - UVa 11727 - Cost Cutting [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2827)
 - UVa 12289 - One-Two-Three [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3710)
 - UVa 12468 - Zapping [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3912)
-- UVa 12577 - Hajj-e-Akbar [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4022)
+- UVa 12577 - Hajj-e-Akbar [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4022)
 - UVa 12646 - Zero or One [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=602&page=show_problem&problem=4375)
 - UVa 12917 - Prop hunt! [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=862&page=show_problem&problem=4796)
 - Kattis - nastyhacks [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/nastyhacks)
