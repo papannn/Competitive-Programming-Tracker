@@ -59,7 +59,7 @@
 - Kattis - numberfun [**AC**] (https://open.kattis.com/problems/numberfun)
 
 #### Control Flow (solvable in under 7 minutes)
-- Kattis - statistics [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/statistics)
+- Kattis - statistics [**AC**] (https://open.kattis.com/problems/statistics)
 - UVa 11764 - Jumping Mario [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2864)
 - UVa 11799 - Horror Dash [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)
 - UVa 12279 - Emoogle Balance [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)
