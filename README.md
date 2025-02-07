@@ -49,7 +49,7 @@
 - Kattis - leftbeehind [**AC**] (https://open.kattis.com/problems/leftbeehind)
 - UVa 00621 - Secret Research [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=562)
 - UVa 11723 - Numbering Roads [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2823)
-- UVa 11727 - Cost Cutting [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2827)
+- UVa 11727 - Cost Cutting [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2827)
 - UVa 12289 - One-Two-Three [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3710)
 - UVa 12468 - Zapping [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3912)
 - UVa 12577 - Hajj-e-Akbar [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4022)
