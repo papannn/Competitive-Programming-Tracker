@@ -56,4 +56,4 @@
 - UVa 12646 - Zero or One [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=602&page=show_problem&problem=4375)
 - UVa 12917 - Prop hunt! [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=862&page=show_problem&problem=4796)
 - Kattis - nastyhacks [**AC**] (https://open.kattis.com/problems/nastyhacks)
-- Kattis - numberfun [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/numberfun)
+- Kattis - numberfun [**AC**] (https://open.kattis.com/problems/numberfun)
