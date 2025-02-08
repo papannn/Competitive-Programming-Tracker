@@ -62,7 +62,7 @@
 - Kattis - statistics [**AC**] (https://open.kattis.com/problems/statistics)
 - UVa 11764 - Jumping Mario [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2864)
 - UVa 11799 - Horror Dash [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)
-- UVa 12279 - Emoogle Balance [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)
+- UVa 12279 - Emoogle Balance [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)
 - Kattis - fizzbuzz [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/fizzbuzz)
 - Kattis - licensetolaunch [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/licensetolaunch)
 - Kattis - oddgnome [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/oddgnome)
