@@ -69,7 +69,7 @@
 - UVa 00272 - TEX Quotes [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208)
 - UVa 10300 - Ecological Premium [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241)
 - UVa 11364 - Parking [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2349)
-- UVa 11498 - Division of Nlogonia [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2493)
+- UVa 11498 - Division of Nlogonia [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2493)
 - UVa 12403 - Save Setu [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)
 - UVa 13012 - Identifiying Tea [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4900)
 - UVa 13034 - Solve Everything [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4932)
