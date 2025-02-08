@@ -79,7 +79,7 @@
 - Kattis - earlywinter [**AC**] (https://open.kattis.com/problems/earlywinter)
 - Kattis - jobexpenses [**AC**] (https://open.kattis.com/problems/jobexpenses)
 - Kattis - speedlimit [**AC**] (https://open.kattis.com/problems/speedlimit)
-- Kattis - stararrangements [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/stararrangements)
+- Kattis - stararrangements [**AC**] (https://open.kattis.com/problems/stararrangements)
 - Kattis - thanos [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/thanos)
 - Kattis - zanzibar [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/zanzibar)
 
