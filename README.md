@@ -64,7 +64,7 @@
 - UVa 11799 - Horror Dash [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)
 - UVa 12279 - Emoogle Balance [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)
 - Kattis - fizzbuzz [**AC**] (https://open.kattis.com/problems/fizzbuzz)
-- Kattis - licensetolaunch [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/licensetolaunch)
+- Kattis - licensetolaunch [**AC**] (https://open.kattis.com/problems/licensetolaunch)
 - Kattis - oddgnome [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/oddgnome)
 - UVa 00272 - TEX Quotes [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208)
 - UVa 10300 - Ecological Premium [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241)
