@@ -76,7 +76,7 @@
 - UVa 13130 - Cacho [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=5041#google_vignette)
 - Kattis - babybites [**AC**] (https://open.kattis.com/problems/babybites)
 - Kattis - cold [**AC**] (https://open.kattis.com/problems/cold)
-- Kattis - earlywinter [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/earlywinter)
+- Kattis - earlywinter [**AC**] (https://open.kattis.com/problems/earlywinter)
 - Kattis - jobexpenses [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/jobexpenses)
 - Kattis - speedlimit [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/speedlimit)
 - Kattis - stararrangements [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/stararrangements)
