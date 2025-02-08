@@ -77,7 +77,7 @@
 - Kattis - babybites [**AC**] (https://open.kattis.com/problems/babybites)
 - Kattis - cold [**AC**] (https://open.kattis.com/problems/cold)
 - Kattis - earlywinter [**AC**] (https://open.kattis.com/problems/earlywinter)
-- Kattis - jobexpenses [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/jobexpenses)
+- Kattis - jobexpenses [**AC**] (https://open.kattis.com/problems/jobexpenses)
 - Kattis - speedlimit [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/speedlimit)
 - Kattis - stararrangements [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/stararrangements)
 - Kattis - thanos [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/thanos)
