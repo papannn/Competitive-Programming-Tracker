@@ -72,7 +72,7 @@
 - UVa 11498 - Division of Nlogonia [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2493)
 - UVa 12403 - Save Setu [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)
 - UVa 13012 - Identifiying Tea [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4900)
-- UVa 13034 - Solve Everything [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4932)
+- UVa 13034 - Solve Everything [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4932)
 - UVa 13130 - Cacho [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=5041#google_vignette)
 - Kattis - babybites [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/babybites)
 - Kattis - cold [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/cold)
