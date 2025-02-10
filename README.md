@@ -81,7 +81,7 @@
 - Kattis - speedlimit [**AC**] (https://open.kattis.com/problems/speedlimit)
 - Kattis - stararrangements [**AC**] (https://open.kattis.com/problems/stararrangements)
 - Kattis - thanos [**ATTEMPTED (WA)**] (https://open.kattis.com/problems/thanos)
-- Kattis - zanzibar [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/zanzibar)
+- Kattis - zanzibar [**AC**] (https://open.kattis.com/problems/zanzibar)
 
 #### Function
 - Kattis - mia [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/mia)
