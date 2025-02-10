@@ -85,7 +85,7 @@
 
 #### Function
 - Kattis - mia [**AC**] (https://open.kattis.com/problems/mia)
-- UVa 10424 - Love Calculator [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
+- UVa 10424 - Love Calculator [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
 - UVa 11078 - Open Credit System [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2019)
 - UVa 11332 - Summing Digits [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2307)
 - Kattis - artichoke [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/artichoke)
