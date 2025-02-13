@@ -92,7 +92,7 @@
 - UVa 01709 - Amalgamated Artichokes [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4782)
 - Kattis - digits [**AC**] (https://open.kattis.com/problems/digits)
 - UVa 11687 - Digits [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2734)
-- Kattis - filip [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/filip)
+- Kattis - filip [**AC**] (https://open.kattis.com/problems/filip)
 - Kattis - abc [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/abc)
 - Kattis - combinationlock [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/combinationlock)
 - UVa 10550 - Combination Lock [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491) 
