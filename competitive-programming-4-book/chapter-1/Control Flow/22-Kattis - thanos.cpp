@@ -8,6 +8,11 @@ int main () {
     while (t--) {
         double P, R, F;
         cin >> P >> R >> F;
-        cout << floor(log(F / P) / log(R)) + 1 << endl;
+        int year = 0;
+        while (P <= F) {
+            P = P * R;
+            year++;
+        }
+        cout << year << endl;
     }
 }

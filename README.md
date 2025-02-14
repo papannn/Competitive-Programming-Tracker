@@ -80,7 +80,7 @@
 - Kattis - jobexpenses [**AC**] (https://open.kattis.com/problems/jobexpenses)
 - Kattis - speedlimit [**AC**] (https://open.kattis.com/problems/speedlimit)
 - Kattis - stararrangements [**AC**] (https://open.kattis.com/problems/stararrangements)
-- Kattis - thanos [**ATTEMPTED (WA)**] (https://open.kattis.com/problems/thanos)
+- Kattis - thanos [**AC**] (https://open.kattis.com/problems/thanos)
 - Kattis - zanzibar [**AC**] (https://open.kattis.com/problems/zanzibar)
 
 #### Function
