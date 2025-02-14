@@ -105,7 +105,7 @@
 - UVa 12015 - Google is Feeling Lucky [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166)
 - Kattis - acm [**AC**] (https://open.kattis.com/problems/acm)
 - Kattis - cetiri [**AC**] (https://open.kattis.com/problems/cetiri)
-- Kattis - lineup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/lineup)
+- Kattis - lineup [**AC**] (https://open.kattis.com/problems/lineup)
 - UVa 11942 - Lumberjack Sequencing [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3093)
 - Kattis - basketballoneonone [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/basketballoneonone)
 - Kattis - hothike [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/hothike)
