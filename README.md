@@ -99,7 +99,7 @@
 - Kattis - treasurehunt [**AC**] (https://open.kattis.com/problems/treasurehunt)
 
 #### 1D Array Manipulation, Easier
-- Kattis - lostlineup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/lostlineup)
+- Kattis - lostlineup [**AC**] (https://open.kattis.com/problems/lostlineup)
 - UVa 01585 - Score [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
 - UVa 11679 - Sub-prime [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2726)
 - UVa 12015 - Google is Feeling Lucky [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166)
