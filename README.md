@@ -94,8 +94,8 @@
 - UVa 11687 - Digits [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2734)
 - Kattis - filip [**AC**] (https://open.kattis.com/problems/filip)
 - Kattis - abc [**AC**] (https://open.kattis.com/problems/abc)
-- Kattis - combinationlock [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/combinationlock)
-- UVa 10550 - Combination Lock [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491) 
+- Kattis - combinationlock [**AC**] (https://open.kattis.com/problems/combinationlock)
+- UVa 10550 - Combination Lock [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491) 
 - Kattis - treasurehunt [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/treasurehunt)
 
 #### 1D Array Manipulation, Easier
