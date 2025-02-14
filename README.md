@@ -103,7 +103,7 @@
 - UVa 01585 - Score [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
 - UVa 11679 - Sub-prime [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2726)
 - UVa 12015 - Google is Feeling Lucky [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166)
-- Kattis - acm [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/acm)
+- Kattis - acm [**AC**] (https://open.kattis.com/problems/acm)
 - Kattis - cetiri [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/cetiri)
 - Kattis - lineup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/lineup)
 - UVa 11942 - Lumberjack Sequencing [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3093)
