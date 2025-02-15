@@ -108,4 +108,4 @@
 - Kattis - lineup [**AC**] (https://open.kattis.com/problems/lineup)
 - UVa 11942 - Lumberjack Sequencing [**ATTEMPTED (NOT VALIDATED YET)**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3093)
 - Kattis - basketballoneonone [**AC**] (https://open.kattis.com/problems/basketballoneonone)
-- Kattis - hothike [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/hothike)
+- Kattis - hothike [**AC**] (https://open.kattis.com/problems/hothike)
