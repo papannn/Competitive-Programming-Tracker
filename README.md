@@ -114,7 +114,7 @@
 - Kattis - hissingmicrophone [**AC**] (https://open.kattis.com/problems/hissingmicrophone)
 - UVa 12503 - Robot Instruction [**ATTEMPTED (NOT VALIDATED YET)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
 - UVa 12658 - Character Recognition? [**ATTEMPTED (NOT VALIDATED YET)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4396)
-- UVa 12696 - Cabin Baggage [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4434)
+- UVa 12696 - Cabin Baggage [**ATTEMPTED (NOT VALIDATED YET)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4434)
 - Kattis - batterup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/batterup)
 - Kattis - hangingout [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/hangingout)
 - Kattis - pokerhand [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/pokerhand)
