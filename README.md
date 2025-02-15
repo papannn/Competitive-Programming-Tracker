@@ -111,7 +111,7 @@
 - Kattis - hothike [**AC**] (https://open.kattis.com/problems/hothike)
 
 #### Easy
-- Kattis - hissingmicrophone [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/hissingmicrophone)
+- Kattis - hissingmicrophone [**AC**] (https://open.kattis.com/problems/hissingmicrophone)
 - UVa 12503 - Robot Instruction [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
 - UVa 12658 - Character Recognition? [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4396)
 - UVa 12696 - Cabin Baggage [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4434)
