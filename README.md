@@ -116,7 +116,7 @@
 - UVa 12658 - Character Recognition? [**ATTEMPTED (NOT VALIDATED YET)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4396)
 - UVa 12696 - Cabin Baggage [**ATTEMPTED (NOT VALIDATED YET)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4434)
 - Kattis - batterup [**AC**] (https://open.kattis.com/problems/batterup)
-- Kattis - hangingout [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/hangingout)
+- Kattis - hangingout [**AC**] (https://open.kattis.com/problems/hangingout)
 - Kattis - pokerhand [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/pokerhand)
 - UVa 01641 - ASCII Area [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4516)
 - UVa 10963 - The Swallowing Ground [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1904)
