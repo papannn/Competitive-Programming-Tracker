@@ -4,9 +4,10 @@ using namespace std;
 int main () {
     int t;
     cin >> t;
+    int x = t;
+    getchar();
     while (t--) {
         int n;
-        getchar();
         cin >> n;
         n--;
         int a, b;
@@ -19,6 +20,10 @@ int main () {
                 possible = false;
             }
         }
+        
         cout << (possible ? "yes" : "no") << endl;
+        if (x > 1 && t != 0) {
+            cout << endl;
+        }
     }
 }
