@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string.h>
+#include <vector>
 
 using namespace std;
 void execCommand(vector<string>& sArr, string s, int& pos) {
