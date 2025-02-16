@@ -122,7 +122,7 @@
 - UVa 10963 - The Swallowing Ground [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1904)
 - UVa 12554 - A Special “Happy Birthday” Song!!! [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3999)
 - UVa 12750 - Keep Rafa at Chelsea [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4603)
-- UVa 12798 - Handball [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4663)
+- UVa 12798 - Handball [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4663)
 - Kattis - armystrengtheasy [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/armystrengtheasy)
 - Kattis - armystrengthhard [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/armystrengthhard)
 - Kattis - brokenswords [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/brokenswords)
