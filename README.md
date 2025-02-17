@@ -126,7 +126,7 @@
 - Kattis - armystrengtheasy [**AC**] (https://open.kattis.com/problems/armystrengtheasy)
 - Kattis - armystrengthhard [**AC**] (https://open.kattis.com/problems/armystrengthhard)
 - Kattis - brokenswords [**AC**] (https://open.kattis.com/problems/brokenswords)
-- Kattis - drinkingsong [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/drinkingsong)
+- Kattis - drinkingsong [**AC**] (https://open.kattis.com/problems/drinkingsong)
 - Kattis - mosquito [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/mosquito)
 - Kattis - ptice [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/ptice)
 - Kattis - sevenwonders [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/sevenwonders)
