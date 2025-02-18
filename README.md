@@ -131,7 +131,7 @@
 - Kattis - ptice [**AC**] (https://open.kattis.com/problems/ptice)
 - Kattis - sevenwonders [**AC**] (https://open.kattis.com/problems/sevenwonders)
 - Kattis - volim [**AC**] (https://open.kattis.com/problems/volim)
-- Kattis - yinyangstones [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/yinyangstones)
+- Kattis - yinyangstones [**AC**] (https://open.kattis.com/problems/yinyangstones)
 - IOI 2010 - Cluedo [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI10_cluedo)
 - IOI 2010 - Memory [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI10_memory)
 
