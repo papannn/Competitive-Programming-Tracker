@@ -130,7 +130,7 @@
 - Kattis - mosquito [**AC**] (https://open.kattis.com/problems/mosquito)
 - Kattis - ptice [**AC**] (https://open.kattis.com/problems/ptice)
 - Kattis - sevenwonders [**AC**] (https://open.kattis.com/problems/sevenwonders)
-- Kattis - volim [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/volim)
+- Kattis - volim [**AC**] (https://open.kattis.com/problems/volim)
 - Kattis - yinyangstones [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/yinyangstones)
 - IOI 2010 - Cluedo [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI10_cluedo)
 - IOI 2010 - Memory [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI10_memory)
