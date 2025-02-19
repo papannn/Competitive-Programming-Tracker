@@ -133,7 +133,7 @@
 - Kattis - volim [**AC**] (https://open.kattis.com/problems/volim)
 - Kattis - yinyangstones [**AC**] (https://open.kattis.com/problems/yinyangstones)
 - IOI 2010 - Cluedo [**AC**] (https://oj.uz/problem/view/IOI10_cluedo)
-- IOI 2010 - Memory [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI10_memory)
+- IOI 2010 - Memory [**AC**] (https://oj.uz/problem/view/IOI10_memory)
 
 #### Still Easy
 - Kattis - bubbletea [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bubbletea)
