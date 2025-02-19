@@ -136,7 +136,7 @@
 - IOI 2010 - Memory [**AC**] (https://oj.uz/problem/view/IOI10_memory)
 
 #### Still Easy
-- Kattis - bubbletea [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bubbletea)
+- Kattis - bubbletea [**AC**] (https://open.kattis.com/problems/bubbletea)
 - UVa 11559 - Event Planning [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595)
 - Kattis - eventplanning [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/eventplanning)
 - UVa 11683 - Laser Sculpture [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2730)
