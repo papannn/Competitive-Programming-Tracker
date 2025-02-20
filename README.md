@@ -140,7 +140,7 @@
 - UVa 11559 - Event Planning [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595)
 - Kattis - eventplanning [**AC**] (https://open.kattis.com/problems/eventplanning)
 - UVa 11683 - Laser Sculpture [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2730)
-- UVa 11786 - Global Raining at Bididibus [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2886)
+- UVa 11786 - Global Raining at Bididibus [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2886)
 - Kattis - bossbattle [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bossbattle)
 - Kattis - peasoup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/peasoup)
 - Kattis - vote [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/vote)
