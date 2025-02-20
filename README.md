@@ -143,7 +143,7 @@
 - UVa 11786 - Global Raining at Bididibus [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2886)
 - Kattis - bossbattle [**AC**] (https://open.kattis.com/problems/bossbattle)
 - Kattis - peasoup [**AC**] (https://open.kattis.com/problems/peasoup)
-- Kattis - vote [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/vote)
+- Kattis - vote [**AC**] (https://open.kattis.com/problems/vote)
 - UVa 10114 - Loansome Car Buyer [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1055)
 - UVa 10141 - Request for Proposal [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
 - UVa 10324 - Zeros and Ones [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
