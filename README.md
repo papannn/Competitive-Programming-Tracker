@@ -150,7 +150,7 @@
 - UVa 11586 - Train Tracks [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2633)
 - UVa 11661 - Burger Time? [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2708)
 - UVa 12614 - Earn For Future [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4292)
-- UVa 13007 - D as in Daedalus [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4895)
+- UVa 13007 - D as in Daedalus [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4895)
 - Kattis - boundingrobots [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/boundingrobots)
 - Kattis - climbingstairs [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/climbingstairs)
 - Kattis - deathtaxes [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/deathtaxes)
