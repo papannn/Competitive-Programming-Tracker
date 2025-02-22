@@ -6,7 +6,9 @@
 
 #### Chapter 1
 
-##### I/O + Sequences Only
+##### Programming Exercises to get you started
+
+###### I/O + Sequences Only
 - Kattis - hello [**AC**] (https://open.kattis.com/problems/hello)
 - UVa 10071 - Back to High School Physics [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1012)
 - UVa 11614 - Etruscan Warriors Never Play Chess [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2661)
@@ -20,7 +22,7 @@
 - Kattis - planina [**AC**] (https://open.kattis.com/problems/planina)
 - Kattis - romans [**AC**] (https://open.kattis.com/problems/romans)
 
-##### Repetition Only
+###### Repetition Only
 - Kattis - timeloop [**AC**] (https://open.kattis.com/problems/timeloop)
 - UVa 01124 - Celebrity Jeopardy [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=246&page=show_problem&problem=3565)
 - UVa 11044 - Searching for Nessy [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1985)
@@ -30,7 +32,7 @@
 - Kattis - tarifa [**AC**] (https://open.kattis.com/problems/tarifa)
 - UVa 10055 - Hashmat the Brave Warrior [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996)
 
-##### Selection Only
+###### Selection Only
 - Kattis - moscowdream [**AC**] (https://open.kattis.com/problems/moscowdream)
 - Kattis - isithalloween [**AC**] (https://open.kattis.com/problems/isithalloween)
 - Kattis - judgingmoose [**AC**] (https://open.kattis.com/problems/judgingmoose)
@@ -39,7 +41,7 @@
 - Kattis - quadrant [**AC**] (https://open.kattis.com/problems/quadrant)
 - Kattis - temperature [**AC**] (https://open.kattis.com/problems/temperature)
 
-##### Multiple Test Cases + Selection
+###### Multiple Test Cases + Selection
 - Kattis - oddities [**AC**] (https://open.kattis.com/problems/odditites)
 - UVa 11172 - Relational Operators [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
 - UVa 12250 - Language Detection [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3402)
@@ -58,7 +60,7 @@
 - Kattis - nastyhacks [**AC**] (https://open.kattis.com/problems/nastyhacks)
 - Kattis - numberfun [**AC**] (https://open.kattis.com/problems/numberfun)
 
-#### Control Flow (solvable in under 7 minutes)
+###### Control Flow (solvable in under 7 minutes)
 - Kattis - statistics [**AC**] (https://open.kattis.com/problems/statistics)
 - UVa 11764 - Jumping Mario [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2864)
 - UVa 11799 - Horror Dash [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)
@@ -83,7 +85,7 @@
 - Kattis - thanos [**AC**] (https://open.kattis.com/problems/thanos)
 - Kattis - zanzibar [**AC**] (https://open.kattis.com/problems/zanzibar)
 
-#### Function
+###### Function
 - Kattis - mia [**AC**] (https://open.kattis.com/problems/mia)
 - UVa 10424 - Love Calculator [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
 - UVa 11078 - Open Credit System [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2019)
@@ -98,7 +100,7 @@
 - UVa 10550 - Combination Lock [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491) 
 - Kattis - treasurehunt [**AC**] (https://open.kattis.com/problems/treasurehunt)
 
-#### 1D Array Manipulation, Easier
+###### 1D Array Manipulation, Easier
 - Kattis - lostlineup [**AC**] (https://open.kattis.com/problems/lostlineup)
 - UVa 01585 - Score [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
 - UVa 11679 - Sub-prime [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2726)
@@ -110,7 +112,7 @@
 - Kattis - basketballoneonone [**AC**] (https://open.kattis.com/problems/basketballoneonone)
 - Kattis - hothike [**AC**] (https://open.kattis.com/problems/hothike)
 
-#### Easy
+###### Easy
 - Kattis - hissingmicrophone [**AC**] (https://open.kattis.com/problems/hissingmicrophone)
 - UVa 12503 - Robot Instruction [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
 - UVa 12658 - Character Recognition? [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4396)
@@ -135,7 +137,7 @@
 - IOI 2010 - Cluedo [**AC**] (https://oj.uz/problem/view/IOI10_cluedo)
 - IOI 2010 - Memory [**AC**] (https://oj.uz/problem/view/IOI10_memory)
 
-#### Still Easy
+###### Still Easy
 - Kattis - bubbletea [**AC**] (https://open.kattis.com/problems/bubbletea)
 - UVa 11559 - Event Planning [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595)
 - Kattis - eventplanning [**AC**] (https://open.kattis.com/problems/eventplanning)
@@ -161,7 +163,7 @@
 - UVa 10919 - prerequisites [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1860)
 - Kattis - sok [**AC**] (https://open.kattis.com/problems/sok)
 
-#### Medium
+###### Medium
 - Kattis - basicprogramming1 [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/basicprogramming1)
 - UVa 11507 - Bender B. Rodr´iguez Problem [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502)
 - UVa 12157 - Tariff Plan [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3309)
@@ -185,3 +187,50 @@
 - Kattis - shatteredcake [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shatteredcake)
 - IOI 2009 - Garage [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_garage)
 - IOI 2009 - POI [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_poi)
+
+##### Programming Exercises about Ad Hoc problems
+
+###### Game (Card)
+- UVa 10646 - What is the Card? [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1587)
+- UVa 10388 - Snap [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1329)
+- UVa 11678 - Card's Exchange [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2725)
+- UVa 12247 - Jollo [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3399)
+- Kattis - bela [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bela)
+- Kattis - shuffling [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shuffling)
+- Kattis - memorymatch [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/memorymatch)
+- UVa 00162 - Beggar My Neighbour [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
+- UVa 00462 - Bridge Hand Evaluator [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=403)
+- UVa 00555 - Bridge Hands [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=496)
+- UVa 10205 - Stack 'em Up [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1146)
+- UVa 10315 - Poker Hands [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1256)
+- UVa 11225 - Tarot scores. [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2166)
+- UVa 12366 - King's Poker [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3788)
+- UVa 12952 - Tri-du [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4831)
+- Kattis - karte [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/karte)
+
+###### Game (Chess)
+- UVa 00278 - Chess [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214)
+- UVa 00255 - Correct Move [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=191)
+- UVa 00696 - How Many Knights [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637)
+- UVa 10284 - Chessboard in FEN [**NOT YET ATTEMPTED**] ()
+- Kattis - chess [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/chess)
+- Kattis - empleh [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/empleh)
+- Kattis - helpme [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/helpme)
+- UVa 10196 - Check The Check [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
+- UVa 10849 - Move the bishop [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1790)
+- UVa 11494 - Queen [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2489)
+- Kattis - bijele [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bijele)
+
+###### Game (Others), Easier
+- UVa 10189 - Minesweeper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130)
+- UVa 00489 - Hangman Judge [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=430)
+- UVa 00947 - Master Mind Helper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=888)
+- UVa 11459 - Snakes and Ladders [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2454)
+- Kattis - connectthedots [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/connectthedots)
+- Kattis - gamerank [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/gamerank)
+- Kattis - guessinggame [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/guessinggame)
+- UVa 00340 - Master-Mind Hints [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=276)
+- UVa 10279 - Mine Sweeper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1220)
+- UVa 10409 - Die Game [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1350)
+- UVa 12239 - Bingo! [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3391)
+- Kattis - trik [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/trik)
