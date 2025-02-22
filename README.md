@@ -155,7 +155,7 @@
 - Kattis - climbingstairs [**AC**] (https://open.kattis.com/problems/climbingstairs)
 - Kattis - deathtaxes [**AC**] (https://open.kattis.com/problems/deathtaxes)
 - Kattis - driversdilemma [**AC**] (https://open.kattis.com/problems/driversdilemma)
-- Kattis - exactlyelectrical [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/exactlyelectrical)
+- Kattis - exactlyelectrical [**AC**] (https://open.kattis.com/problems/exactlyelectrical)
 - Kattis - missingnumbers [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/missingnumbers)
 - Kattis - prerequisites [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/prerequisites)
 - Kattis - sok [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/sok)
