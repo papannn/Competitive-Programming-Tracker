@@ -157,7 +157,8 @@
 - Kattis - driversdilemma [**AC**] (https://open.kattis.com/problems/driversdilemma)
 - Kattis - exactlyelectrical [**AC**] (https://open.kattis.com/problems/exactlyelectrical)
 - Kattis - missingnumbers [**AC**] (https://open.kattis.com/problems/missingnumbers)
-- Kattis - prerequisites [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/prerequisites)
+- Kattis - prerequisites [**AC**] (https://open.kattis.com/problems/prerequisites)
+- UVa 10919 - prerequisites [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1860)
 - Kattis - sok [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/sok)
 
 #### Medium
