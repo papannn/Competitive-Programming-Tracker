@@ -153,7 +153,7 @@
 - UVa 13007 - D as in Daedalus [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4895)
 - Kattis - boundingrobots [**AC**] (https://open.kattis.com/problems/boundingrobots)
 - Kattis - climbingstairs [**AC**] (https://open.kattis.com/problems/climbingstairs)
-- Kattis - deathtaxes [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/deathtaxes)
+- Kattis - deathtaxes [**AC**] (https://open.kattis.com/problems/deathtaxes)
 - Kattis - driversdilemma [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/driversdilemma)
 - Kattis - exactlyelectrical [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/exactlyelectrical)
 - Kattis - missingnumbers [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/missingnumbers)
