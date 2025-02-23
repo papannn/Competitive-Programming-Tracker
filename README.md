@@ -168,7 +168,7 @@
 - UVa 11507 - Bender B. Rodr´iguez Problem [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502)
 - UVa 12157 - Tariff Plan [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3309)
 - UVa 12643 - Tennis Rounds [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4391)
-- Kattis - battlesimulation [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/battlesimulation)
+- Kattis - battlesimulation [**AC**] (https://open.kattis.com/problems/battlesimulation)
 - Kattis - bitsequalizer [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bitsequalizer)
 - Kattis - fastfood [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/fastfood)
 - UVa 00119 - Greedy Gift Givers [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
