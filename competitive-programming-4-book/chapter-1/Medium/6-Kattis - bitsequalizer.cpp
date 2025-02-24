@@ -12,14 +12,9 @@ int main () {
 
         int countOneS = 0;
         int countOneT = 0;
-        int countQuesS = 0;
         for (int i = 0 ; i < t.length(); i++) {
             if (s[i] == '1') {
                 countOneS++;
-            }
-
-            if (s[i] == '?') {
-                countQuesS++;
             }
 
             if (t[i] == '1') {
@@ -41,7 +36,6 @@ int main () {
                     s[i] = '1';
                     diff--;
                     countOneS++;
-                    countQuesS--;
                 } else {
                     s[i] = '0';
                 }
@@ -53,17 +47,21 @@ int main () {
         for (int i = 0 ; i < t.length() ; i++) {
             if (s[i] == '?') {
                 s[i] = '0';
+                res++;
             }
             
+            if (diff > 0 && s[i] == '0' && t[i] == '1') {
+                diff--;
+                s[i] = '1';
+                res++;
+            }
+
             if (s[i] != t[i]) {
                 counter++;
             }
         }
 
         res += counter / 2;
-        res += countQuesS;
-        res += diff;
-        
         cout << res << endl;
     }
 }
