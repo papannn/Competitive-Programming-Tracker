@@ -179,7 +179,7 @@
 - UVa 11956 - Brainfuck [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3107)
 - Kattis - anotherbrick [**AC**] (https://open.kattis.com/problems/anotherbrick)
 - Kattis - beekeeper [**AC**] (https://open.kattis.com/problems/beekeeper)
-- Kattis - bottledup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bottledup)
+- Kattis - bottledup [**AC**] (https://open.kattis.com/problems/bottledup)
 - Kattis - carousel [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/carousel)
 - Kattis - climbingworm [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/climbingworm)
 - Kattis - codecleanups [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/codecleanups)
