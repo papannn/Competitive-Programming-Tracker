@@ -177,7 +177,7 @@
 - UVa 00661 - Blowing Fuses [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
 - UVa 01237 - Expert Enough? [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3678)
 - UVa 11956 - Brainfuck [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3107)
-- Kattis - anotherbrick [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/anotherbrick)
+- Kattis - anotherbrick [**AC**] (https://open.kattis.com/problems/anotherbrick)
 - Kattis - beekeeper [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/beekeeper)
 - Kattis - bottledup [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bottledup)
 - Kattis - carousel [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/carousel)
