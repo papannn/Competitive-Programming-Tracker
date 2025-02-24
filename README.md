@@ -171,7 +171,7 @@
 - Kattis - battlesimulation [**AC**] (https://open.kattis.com/problems/battlesimulation)
 - Kattis - bitsequalizer [**AC**] (https://open.kattis.com/problems/bitsequalizer)
 - UVa 12545 - Bits Equalizer [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3990)
-- Kattis - fastfood [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/fastfood)
+- Kattis - fastfood [**AC**] (https://open.kattis.com/problems/fastfood)
 - UVa 00119 - Greedy Gift Givers [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
 - UVa 00573 - The Snail [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=514)
 - UVa 00661 - Blowing Fuses [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
