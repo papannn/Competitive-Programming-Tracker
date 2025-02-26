@@ -176,7 +176,7 @@
 - UVa 00573 - The Snail [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=514)
 - UVa 00661 - Blowing Fuses [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
 - UVa 01237 - Expert Enough? [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3678)
-- UVa 11956 - Brainfuck [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3107)
+- UVa 11956 - Brainfuck [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3107)
 - Kattis - anotherbrick [**AC**] (https://open.kattis.com/problems/anotherbrick)
 - Kattis - beekeeper [**AC**] (https://open.kattis.com/problems/beekeeper)
 - Kattis - bottledup [**AC**] (https://open.kattis.com/problems/bottledup)
