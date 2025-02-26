@@ -181,7 +181,7 @@
 - Kattis - beekeeper [**AC**] (https://open.kattis.com/problems/beekeeper)
 - Kattis - bottledup [**AC**] (https://open.kattis.com/problems/bottledup)
 - Kattis - carousel [**AC**] (https://open.kattis.com/problems/carousel)
-- Kattis - climbingworm [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/climbingworm)
+- Kattis - climbingworm [**AC**] (https://open.kattis.com/problems/climbingworm)
 - Kattis - codecleanups [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/codecleanups)
 - Kattis - cowcrane [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/cowcrane)
 - Kattis - howl [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/howl)
