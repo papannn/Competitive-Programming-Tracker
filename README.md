@@ -182,7 +182,7 @@
 - Kattis - bottledup [**AC**] (https://open.kattis.com/problems/bottledup)
 - Kattis - carousel [**AC**] (https://open.kattis.com/problems/carousel)
 - Kattis - climbingworm [**AC**] (https://open.kattis.com/problems/climbingworm)
-- Kattis - codecleanups [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/codecleanups)
+- Kattis - codecleanups [**AC**] (https://open.kattis.com/problems/codecleanups)
 - Kattis - cowcrane [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/cowcrane)
 - Kattis - howl [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/howl)
 - Kattis - shatteredcake [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shatteredcake)
