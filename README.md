@@ -183,7 +183,7 @@
 - Kattis - carousel [**AC**] (https://open.kattis.com/problems/carousel)
 - Kattis - climbingworm [**AC**] (https://open.kattis.com/problems/climbingworm)
 - Kattis - codecleanups [**AC**] (https://open.kattis.com/problems/codecleanups)
-- Kattis - cowcrane [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/cowcrane)
+- Kattis - cowcrane [**ATTEMPTED (WA)**] (https://open.kattis.com/problems/cowcrane)
 - Kattis - howl [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/howl)
 - Kattis - shatteredcake [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shatteredcake)
 - IOI 2009 - Garage [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_garage)
