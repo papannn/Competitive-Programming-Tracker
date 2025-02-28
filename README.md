@@ -186,7 +186,7 @@
 - Kattis - cowcrane [**AC**] (https://open.kattis.com/problems/cowcrane)
 - Kattis - howl [**AC**] (https://open.kattis.com/problems/howl)
 - Kattis - shatteredcake [**AC**] (https://open.kattis.com/problems/shatteredcake)
-- IOI 2009 - Garage [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_garage)
+- IOI 2009 - Garage [**AC**] (https://oj.uz/problem/view/IOI09_garage)
 - IOI 2009 - POI [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_poi)
 
 ##### Programming Exercises about Ad Hoc problems
