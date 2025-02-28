@@ -185,7 +185,7 @@
 - Kattis - codecleanups [**AC**] (https://open.kattis.com/problems/codecleanups)
 - Kattis - cowcrane [**AC**] (https://open.kattis.com/problems/cowcrane)
 - Kattis - howl [**AC**] (https://open.kattis.com/problems/howl)
-- Kattis - shatteredcake [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shatteredcake)
+- Kattis - shatteredcake [**AC**] (https://open.kattis.com/problems/shatteredcake)
 - IOI 2009 - Garage [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_garage)
 - IOI 2009 - POI [**NOT YET ATTEMPTED**] (https://oj.uz/problem/view/IOI09_poi)
 
