@@ -193,7 +193,7 @@
 
 ###### Game (Card)
 - UVa 10646 - What is the Card? [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1587)
-- UVa 10388 - Snap [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1329)
+- UVa 10388 - Snap [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1329)
 - UVa 11678 - Card's Exchange [**NOT YET ATTEMPTED**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2725)
 - UVa 12247 - Jollo [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3399)
 - Kattis - bela [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bela)
