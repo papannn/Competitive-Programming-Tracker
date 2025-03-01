@@ -33,13 +33,11 @@ int main () {
             }
         }
 
-        while (hand.size() > 0) {
-            string card = hand[0];
-            cards.push_back(card);
-            hand.pop_front();
-        }
+        cards.insert(cards.end(), hand.begin(), hand.end());
 
         cout << "Case " << count++ << ": ";
         cout << cards[y - 1] << endl;
+        cards.clear();
+        hand.clear();
     }
 }
