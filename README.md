@@ -196,7 +196,7 @@
 - UVa 10388 - Snap [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1329)
 - UVa 11678 - Card's Exchange [**AC**] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2725)
 - UVa 12247 - Jollo [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3399)
-- Kattis - bela [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bela)
+- Kattis - bela [**AC**] (https://open.kattis.com/problems/bela)
 - Kattis - shuffling [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/shuffling)
 - Kattis - memorymatch [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/memorymatch)
 - UVa 00162 - Beggar My Neighbour [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
