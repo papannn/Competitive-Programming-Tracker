@@ -199,7 +199,7 @@
 - Kattis - bela [**AC**] (https://open.kattis.com/problems/bela)
 - Kattis - shuffling [**AC**] (https://open.kattis.com/problems/shuffling)
 - Kattis - memorymatch [**AC**] (https://open.kattis.com/problems/memorymatch)
-- UVa 00162 - Beggar My Neighbour [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
+- UVa 00162 - Beggar My Neighbour [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
 - UVa 00462 - Bridge Hand Evaluator [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=403)
 - UVa 00555 - Bridge Hands [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=496)
 - UVa 10205 - Stack 'em Up [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1146)
