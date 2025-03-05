@@ -33,7 +33,12 @@ int main () {
 
         unordered_set<char> suitStopped;
 
-        unordered_map<char, int> suitCount;
+        unordered_map<char, int> suitCount = {
+            {'S', 0},
+            {'H', 0},
+            {'D', 0},
+            {'C', 0}
+        };
         for (int i = 0 ; i < cards.size(); i++) {
             suitCount[cards[i][1]]++;
             point += suitPoint[cards[i][0]];
@@ -42,6 +47,8 @@ int main () {
         for (int i = 0 ; i < cards.size(); i++) {
             if (suitCount[cards[i][1]] < suitDeduct[cards[i][0]]) {
                 point -= 1;
+                // cout << cards[i][0] << endl;
+                // cout << "HEY" << endl;
             }
 
             if (stopTrump.find(cards[i][0]) != stopTrump.end()) {
@@ -74,14 +81,17 @@ int main () {
         int temp = 0;
         // if (suitStopped.size() != 4) {
             for (auto &i : suitCount) {
-                if (i.second <= 2) {
+                if (i.second == 2) {
+                    temp++;
+                }
+                if (i.second < 2) {
                     temp += 2;
                 }
             }
         // }
-        
-        cout << point << endl;
-        cout << suitStopped.size() << endl;
+        // cout << point << endl;
+        // cout << point + temp << endl;
+        // cout << suitStopped.size() << endl;
         if (suitStopped.size() == 4) {
             if (point >= 16) {
                 cout << "BID NO-TRUMP";
