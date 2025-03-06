@@ -35,17 +35,14 @@ int main () {
         while (true) {
             string idx;
             getline(cin, idx);
-            // cout << idx.length() << endl;
             if (idx.length() == 0) {
                 break;
             }
 
             int intIdx = stoi(idx) - 1;
-            // cout << intIdx << endl;
             realShuffleArr.push_back(shuffleArr[intIdx]);
         }
-        // cout << endl;
-        // cout << realShuffleArr.size() << endl;
+
         vector<int> currIdx;
         for (int i = 1; i <= 52; i++) {
             currIdx.push_back(i);
@@ -54,8 +51,7 @@ int main () {
         for (int i = 0 ; i < realShuffleArr.size(); i++) {
             vector<int> tempIdx(52);
             for (int j = 0; j < 52; j++) {
-                tempIdx[realShuffleArr[i][j] - 1] = currIdx[j];
-                // cout << tempIdx[realShuffleArr[i][j] - 1] << " ";
+                tempIdx[j] = currIdx[realShuffleArr[i][j] - 1];
             }
             currIdx = tempIdx;
         }
