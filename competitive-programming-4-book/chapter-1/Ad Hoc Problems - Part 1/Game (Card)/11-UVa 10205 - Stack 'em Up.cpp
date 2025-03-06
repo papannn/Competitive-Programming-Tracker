@@ -5,11 +5,17 @@ int main () {
     int t;
     cin >> t;
     cin.ignore();
+    bool flag = true;
     while (t--) {
-        string dummy;
-        getline(cin, dummy);
+        if (flag) {
+            string dummy;
+            getline(cin, dummy);
+            flag = false;
+        }
+        
         int shuffleCount;
         cin >> shuffleCount;
+        cin.ignore();
         vector<vector<int>> shuffleArr;
 
         int shuffleGet = shuffleCount;
@@ -19,20 +25,27 @@ int main () {
             while (cardCount--) {
                 int idx;
                 cin >> idx;
+                cin.ignore();
                 shuffleIdx.push_back(idx);
             }
             shuffleArr.push_back(shuffleIdx);
         }
 
-        vector<vector<int>> realShuffleArr(shuffleCount);
-        shuffleGet = shuffleCount;
+        vector<vector<int>> realShuffleArr;
+        while (true) {
+            string idx;
+            getline(cin, idx);
+            // cout << idx.length() << endl;
+            if (idx.length() == 0) {
+                break;
+            }
 
-        for (int i  = 0; i < shuffleArr.size(); i++) {
-            int idx;
-            cin >> idx;
-            realShuffleArr[idx - 1] = shuffleArr[i];
+            int intIdx = stoi(idx) - 1;
+            // cout << intIdx << endl;
+            realShuffleArr.push_back(shuffleArr[intIdx]);
         }
-        
+        // cout << endl;
+        // cout << realShuffleArr.size() << endl;
         vector<int> currIdx;
         for (int i = 1; i <= 52; i++) {
             currIdx.push_back(i);
@@ -40,7 +53,7 @@ int main () {
 
         for (int i = 0 ; i < realShuffleArr.size(); i++) {
             vector<int> tempIdx(52);
-            for (int j = 0; j < realShuffleArr[i].size(); j++) {
+            for (int j = 0; j < 52; j++) {
                 tempIdx[realShuffleArr[i][j] - 1] = currIdx[j];
                 // cout << tempIdx[realShuffleArr[i][j] - 1] << " ";
             }
