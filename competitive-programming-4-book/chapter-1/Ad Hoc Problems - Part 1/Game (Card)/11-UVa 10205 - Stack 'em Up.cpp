@@ -1,0 +1,77 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+int main () {
+    int t;
+    cin >> t;
+    cin.ignore();
+    while (t--) {
+        string dummy;
+        getline(cin, dummy);
+        int shuffleCount;
+        cin >> shuffleCount;
+        vector<vector<int>> shuffleArr;
+
+        int shuffleGet = shuffleCount;
+        while (shuffleGet--) {
+            int cardCount = 52;
+            vector<int> shuffleIdx;
+            while (cardCount--) {
+                int idx;
+                cin >> idx;
+                shuffleIdx.push_back(idx);
+            }
+            shuffleArr.push_back(shuffleIdx);
+        }
+
+        vector<vector<int>> realShuffleArr(shuffleCount);
+        shuffleGet = shuffleCount;
+
+        for (int i  = 0; i < shuffleArr.size(); i++) {
+            int idx;
+            cin >> idx;
+            realShuffleArr[idx - 1] = shuffleArr[i];
+        }
+        
+        vector<int> currIdx;
+        for (int i = 1; i <= 52; i++) {
+            currIdx.push_back(i);
+        }
+
+        for (int i = 0 ; i < realShuffleArr.size(); i++) {
+            vector<int> tempIdx(52);
+            for (int j = 0; j < realShuffleArr[i].size(); j++) {
+                tempIdx[realShuffleArr[i][j] - 1] = currIdx[j];
+                // cout << tempIdx[realShuffleArr[i][j] - 1] << " ";
+            }
+            currIdx = tempIdx;
+        }
+        
+        unordered_map<int, string> suitMapping = {
+            {0, "Clubs"},
+            {1, "Diamonds"},
+            {2, "Hearts"},
+            {3, "Spades"}
+        };
+
+        unordered_map<int, string> numberMapping = {
+            {11, "Jack"},
+            {12, "Queen"},
+            {13, "King"},
+            {14, "Ace"}
+        };
+
+        for (int i = 0 ; i < currIdx.size(); i++) {
+            int num = ((currIdx[i] - 1) % 13) + 2;
+            if (numberMapping.find(num) != numberMapping.end()) {
+                cout << numberMapping[num];
+            } else {
+                cout << num;
+            }
+            cout << " of ";
+            cout << suitMapping[(currIdx[i] - 1) / 13] << endl;
+        }
+        if (t != 0)
+        cout << endl;
+    }
+}
