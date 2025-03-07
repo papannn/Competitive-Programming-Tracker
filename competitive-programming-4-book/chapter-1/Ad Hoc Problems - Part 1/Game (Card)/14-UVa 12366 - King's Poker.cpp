@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 int getPair(vector<int>& arr) {
     unordered_set<int> set;
     for (int i = 0 ; i < arr.size(); i++) {
@@ -39,37 +38,43 @@ int main () {
 
         vector<int> res;
         if (unique.size() == 3) { // High
-            // cout << "1 1 2" << endl;
             res.push_back(1);
             res.push_back(1);
             res.push_back(2);
         } else if (unique.size() == 2) { // Pair
             int pair = getPair(arr);
-            if (pair == 13) {
-                res.push_back(1);
-                res.push_back(1);
-                res.push_back(1);
-            } else {
-                int kick = getKick(arr);
-                if (kick + 1 == pair && kick + 2 <= 13) {
-                    res.push_back(pair);
-                    res.push_back(pair);
-                    res.push_back(kick + 2);
-                } else if (kick + 1 == pair && kick + 2 > 13) {
+            int kick = getKick(arr);
+            if (kick + 1 == pair && kick + 2 <= 13) {
+                res.push_back(pair);
+                res.push_back(pair);
+                res.push_back(kick + 2);
+            } else if (kick + 1 == pair && kick + 2 > 13) {
+                if (pair + 1 <= 13) {
                     res.push_back(pair + 1);
                     res.push_back(pair + 1);
                     res.push_back(1);
-                } else if (kick + 1 != pair && kick + 1 <= 13) {
-                    res.push_back(pair);
-                    res.push_back(pair);
-                    res.push_back(kick + 1);
-                } else if (kick + 1 != pair && kick + 1 > 13){
+                } else {
+                    res.push_back(1);
+                    res.push_back(1);
+                    res.push_back(1);
+                }
+            } else if (kick + 1 != pair && kick + 1 <= 13) {
+                res.push_back(pair);
+                res.push_back(pair);
+                res.push_back(kick + 1);
+            } else if (kick + 1 != pair && kick + 1 > 13){
+                if (pair + 1 <= 13) {
                     res.push_back(pair + 1);
                     res.push_back(pair + 1);
+                    res.push_back(1);
+                } else {
+                    res.push_back(1);
+                    res.push_back(1);
                     res.push_back(1);
                 }
             }
-        } else { // Sets
+            
+        } else if (unique.size() == 1){ // Sets
             int num = arr[0];
             if (num == 13) {
                 cout << "*" << endl;

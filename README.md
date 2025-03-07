@@ -205,7 +205,7 @@
 - UVa 10205 - Stack 'em Up [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1146)
 - UVa 10315 - Poker Hands [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1256)
 - UVa 11225 - Tarot scores. [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2166)
-- UVa 12366 - King's Poker [**ATTEMPTED (WA)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3788)
+- UVa 12366 - King's Poker [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3788)
 - UVa 12952 - Tri-du [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4831)
 - Kattis - karte [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/karte)
 
