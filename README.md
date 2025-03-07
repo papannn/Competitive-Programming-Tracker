@@ -207,7 +207,7 @@
 - UVa 11225 - Tarot scores. [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2166)
 - UVa 12366 - King's Poker [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3788)
 - UVa 12952 - Tri-du [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4831)
-- Kattis - karte [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/karte)
+- Kattis - karte [**AC**] (https://open.kattis.com/problems/karte)
 
 ###### Game (Chess)
 - UVa 00278 - Chess [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214)
