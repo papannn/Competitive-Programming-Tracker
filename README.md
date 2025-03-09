@@ -212,7 +212,7 @@
 ###### Game (Chess)
 - UVa 00278 - Chess [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214)
 - UVa 00255 - Correct Move [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=191)
-- UVa 00696 - How Many Knights [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637)
+- UVa 00696 - How Many Knights [**ATTEMPTED (WA)**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637)
 - UVa 10284 - Chessboard in FEN [**NOT YET ATTEMPTED**] ()
 - Kattis - chess [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/chess)
 - Kattis - empleh [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/empleh)
