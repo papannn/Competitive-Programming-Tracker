@@ -23,13 +23,16 @@ int main () {
             continue;
         }
 
-        if (m <= 2 && n <= 2) {
-            printf("%d knights may be placed on a %d row %d column board.\n", m * n, m, n);
-            continue;
-        }
-
-        if ((m == 3 && n == 2) || (m == 2 && n == 3)) {
-            printf("%d knights may be placed on a %d row %d column board.\n", 4, m, n);
+        if (m == 2 || n == 2) {
+            int a = m == 2 ? m : n;
+            int b = a == m ? n : m;
+            int sum = 0;
+            for (int i = 0 ; i < b; i++) {
+                if (i % 4 == 0 || i % 4 == 1) {
+                    sum += 2;
+                }
+            }
+            printf("%d knights may be placed on a %d row %d column board.\n", sum, m, n);
             continue;
         }
 
