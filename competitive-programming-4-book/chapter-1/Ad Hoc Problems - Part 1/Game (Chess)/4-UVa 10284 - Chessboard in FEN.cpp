@@ -250,19 +250,14 @@ int main () {
         int res = 0;
         for (int i = 7 ; i >= 0; i--) {
             for (int j = 0; j < 8; j++) {
-                // cout << arrBoard[i][j];
                 if (arrBoard[i][j] == ' ') {
                     if (attackPossible.find(to_string(i) + "_" + to_string(j)) == attackPossible.end()) {
                         res++;
                     }
                 }
             }
-            // cout << endl;
         }
 
-        // for (string s : attackPossible) {
-        //     cout << s << endl;
-        // }
         cout << res << endl;
     }
 }
