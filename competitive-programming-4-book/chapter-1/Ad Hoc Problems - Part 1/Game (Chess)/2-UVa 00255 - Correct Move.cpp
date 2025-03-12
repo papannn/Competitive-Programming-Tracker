@@ -75,10 +75,10 @@ int main () {
             continue;
         }
 
-        int topKing = king - 8;
-        int botKing = king + 8;
-        int leftKing = king % 8 == 0 ? -1 : king - 1;
-        int rightKing = king + 1 % 8 == 0 ? -1 : king + 1;
+        int topKing = king - 8 > 0 ? king - 8 : -1;
+        int botKing = king + 8 <= 63 ? king + 8 : -1;
+        int leftKing = king % 8 == 0 && king <= 63 ? -1 : king - 1;
+        int rightKing = king + 1 % 8 == 0 || king >= 63 ? -1 : king + 1;
 
         if (queenNew == topKing || queenNew == botKing || queenNew == leftKing || queenNew == rightKing) {
             cout << "Move not allowed" << endl;
@@ -125,10 +125,8 @@ int main () {
             queenTemp++;
         }
 
-        // queenPossibleMove.erase(queenNew);
-
-        if ((topKing > 0 && queenPossibleMove.find(topKing) == queenPossibleMove.end()) || (botKing < 63 && queenPossibleMove.find(botKing) == queenPossibleMove.end())
-        || (leftKing > 0 && queenPossibleMove.find(leftKing) == queenPossibleMove.end()) || (rightKing > 0 && queenPossibleMove.find(rightKing) == queenPossibleMove.end())) {
+        if ((topKing != -1 && queenPossibleMove.find(topKing) == queenPossibleMove.end()) || (botKing != -1 && queenPossibleMove.find(botKing) == queenPossibleMove.end())
+        || (leftKing != -1 && queenPossibleMove.find(leftKing) == queenPossibleMove.end()) || (rightKing != -1 && queenPossibleMove.find(rightKing) == queenPossibleMove.end())) {
             cout << "Continue" << endl;
         } else {
             cout << "Stop" << endl;
