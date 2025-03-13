@@ -214,7 +214,7 @@
 - UVa 00255 - Correct Move [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=191)
 - UVa 00696 - How Many Knights [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637)
 - UVa 10284 - Chessboard in FEN [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225)
-- Kattis - chess [**ATTEMPTED (WA)**] (https://open.kattis.com/problems/chess)
+- Kattis - chess [**AC**] (https://open.kattis.com/problems/chess)
 - Kattis - empleh [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/empleh)
 - Kattis - helpme [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/helpme)
 - UVa 10196 - Check The Check [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)

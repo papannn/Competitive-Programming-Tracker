@@ -47,7 +47,7 @@ int main () {
             x1--;
             y1--;
             // Bottom Left
-            while (x1 >= 0 && y1 >= 0 && !found) {
+            while (x1 > 0 && y1 > 0 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
@@ -83,7 +83,7 @@ int main () {
         x++;
         y--;
         // Bot Right
-        while (x <= 8 && y >= 0 && !found) {
+        while (x <= 8 && y > 0 && !found) {
             char xChar = x - 1 + 'A';
             if (x == targetX && y == targetY) {
                 cout << 1 << " " << currXChar << " " << currY << " " << xChar << " " << y << endl;
@@ -98,7 +98,7 @@ int main () {
             x1--;
             y1--;
             // Bottom Left
-            while (x1 >= 0 && y1 >= 0 && !found) {
+            while (x1 > 0 && y1 > 0 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
@@ -151,7 +151,7 @@ int main () {
             x1--;
             y1++;
             // Top Left
-            while (x1 >= 0 && y1 <= 8 && !found) {
+            while (x1 > 0 && y1 <= 8 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
@@ -167,7 +167,7 @@ int main () {
             x1++;
             y1--;
             // Bottom right
-            while (x1 <= 8 && y1 >= 0 && !found) {
+            while (x1 <= 8 && y1 > 0 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
@@ -188,7 +188,7 @@ int main () {
         x--;
         y--;
         // Bottom Left
-        while (x > 0 && y >= 0 && !found) {
+        while (x > 0 && y > 0 && !found) {
             char xChar = x - 1 + 'A';
             if (x == targetX && y == targetY) {
                 cout << 1 << " " << currXChar << " " << currY << " " << xChar << " " << y << endl;
@@ -203,7 +203,7 @@ int main () {
             x1--;
             y1++;
             // Top Left
-            while (x1 >= 0 && y1 <= 8 && !found) {
+            while (x1 > 0 && y1 <= 8 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
@@ -219,7 +219,7 @@ int main () {
             x1++;
             y1--;
             // Bottom right
-            while (x1 <= 8 && y1 >= 0 && !found) {
+            while (x1 <= 8 && y1 > 0 && !found) {
                 char xChar1 = x1 - 1 + 'A';
                 if (x1 == targetX && y1 == targetY) {
                     cout << 2 << " " << currXChar << " " << currY << " " 
