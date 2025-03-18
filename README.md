@@ -220,7 +220,7 @@
 - UVa 10196 - Check The Check [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
 - UVa 10849 - Move the bishop [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1790)
 - UVa 11494 - Queen [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2489)
-- Kattis - bijele [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/bijele)
+- Kattis - bijele [**AC**] (https://open.kattis.com/problems/bijele)
 
 ###### Game (Others), Easier
 - UVa 10189 - Minesweeper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130)
