@@ -219,7 +219,7 @@
 - Kattis - helpme [**AC**] (https://open.kattis.com/problems/helpme)
 - UVa 10196 - Check The Check [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
 - UVa 10849 - Move the bishop [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1790)
-- UVa 11494 - Queen [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2489)
+- UVa 11494 - Queen [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2489)
 - Kattis - bijele [**AC**] (https://open.kattis.com/problems/bijele)
 
 ###### Game (Others), Easier
