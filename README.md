@@ -224,7 +224,7 @@
 
 ###### Game (Others), Easier
 - UVa 10189 - Minesweeper [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130)
-- UVa 00489 - Hangman Judge [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=430)
+- UVa 00489 - Hangman Judge [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=430)
 - UVa 00947 - Master Mind Helper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=888)
 - UVa 11459 - Snakes and Ladders [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2454)
 - Kattis - connectthedots [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/connectthedots)
