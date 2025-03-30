@@ -3,12 +3,19 @@
 using namespace std;
 int main () {
     string s;
+    bool flag = true;
     while (getline(cin, s)) {
+        if (!flag) {
+            cout << endl;
+        } else {
+            flag = false;
+        }
+        
         vector<string> board;
+        board.push_back(s);
 
-        while (s.length() != 0) {
+        while (getline(cin, s) && s.length() != 0) {
             board.push_back(s);
-            getline(cin, s);
         }
 
         unordered_map<char, pair<int, int>> mapping;
@@ -30,7 +37,7 @@ int main () {
         }
 
         char c = '0';
-        for (int i = 0 ; i < mapping.size() - 1; i++) {
+        for (int i = 0 ; i < mapping.size() - 1 && mapping.size(); i++) {
             char nextChar;
             if (c == '9') {
                 nextChar = 'a';
@@ -59,34 +66,21 @@ int main () {
             
             int currY = pos.first;
             int currX = pos.second;
-            unordered_set<char> check;
-            while (board[currY][currX] != nextChar) {
-                if (isalnum(board[currY][currX])) {
-                    check.insert(board[currY][currX]);
-                }
-                currY += y;
-                currX += x;
-            }
-            check.insert(nextChar);
-
-            bool valid = check.find('0') == check.end() || check.find(lastChar) == check.end();
-
             currY = pos.first;
             currX = pos.second;
-            currY += y;
-            currX += x;
-
             while (board[currY][currX] != nextChar) {
                 if (upDown) {
                     if (board[currY][currX] == '.') {
                         board[currY][currX] = '|';
-                    } else if (board[currY][currX] == '-') {
+                    } 
+                    if (board[currY][currX] == '-') {
                         board[currY][currX] = '+';
                     }
                 } else {
                     if (board[currY][currX] == '.') {
                         board[currY][currX] = '-';
-                    } else if (board[currY][currX] == '|') {
+                    } 
+                    if (board[currY][currX] == '|') {
                         board[currY][currX] = '+';
                     }
                 }
@@ -101,6 +95,5 @@ int main () {
         for (int i = 0 ; i < board.size(); i++) {
             cout << board[i] << endl;
         }
-        cout << endl;
     }
 }
