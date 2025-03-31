@@ -228,7 +228,7 @@
 - UVa 00947 - Master Mind Helper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=888)
 - UVa 11459 - Snakes and Ladders [**AC**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2454)
 - Kattis - connectthedots [**AC**] (https://open.kattis.com/problems/connectthedots)
-- Kattis - gamerank [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/gamerank)
+- Kattis - gamerank [**AC**] (https://open.kattis.com/problems/gamerank)
 - Kattis - guessinggame [**NOT YET ATTEMPTED**] (https://open.kattis.com/problems/guessinggame)
 - UVa 00340 - Master-Mind Hints [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=276)
 - UVa 10279 - Mine Sweeper [**NOT YET ATTEMPTED**] (http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1220)
