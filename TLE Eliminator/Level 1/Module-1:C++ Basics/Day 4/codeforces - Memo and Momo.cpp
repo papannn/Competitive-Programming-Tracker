@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+// https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
 int main () {
     long long a, b, k;
     

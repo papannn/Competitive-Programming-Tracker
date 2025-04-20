@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+// https://codeforces.com/problemset/problem/4/A
 int main () {
     int x;
     cin >> x;
