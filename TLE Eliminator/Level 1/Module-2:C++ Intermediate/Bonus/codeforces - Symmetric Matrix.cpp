@@ -10,14 +10,12 @@ int main () {
         int n, m;
         cin >> n >> m;
 
-        bool slideBoth = false;
         bool slideLeft = false;
         while (n--) {
             int a, b, c, d;
             cin >> a >> b;
             cin >> c >> d;
 
-            slideBoth |= a == d && b == c;
             slideLeft |= b == c;
         }
 
