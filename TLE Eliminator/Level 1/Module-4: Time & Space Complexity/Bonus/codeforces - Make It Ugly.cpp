@@ -16,22 +16,20 @@ int main () {
         }
 
         int anchor = arr[0];
-        int first = arr.size();
-        int second = arr.size();
-        int mid = arr.size();
-        bool isFirst = true;
-        for (int i = 0; i < arr.size(); i++) {
-            if (isFirst) {
-                if ()
-            } else {
-
+        int amt = -1;
+        int res = arr.size();
+        for (int i = 0 ; i < arr.size(); i++) {
+            if (arr[i] != anchor) {
+                res = min(res, i - amt - 1);
+                amt = i;
             }
         }
+        res = min(res, (int) arr.size() - amt - 1);
 
-        if (res1 == -1) {
+        if (res == arr.size()) {
             cout << -1 << endl;
         } else {
-            cout << min((int) arr.size() - 1 - res1, res2) << endl;
+            cout << res << endl;
         }
     }
 }
