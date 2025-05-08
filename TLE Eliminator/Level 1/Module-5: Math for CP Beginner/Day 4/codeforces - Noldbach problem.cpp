@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+// https://codeforces.com/problemset/problem/17/A
 bool isPrime (int n) {
     bool valid = true;
     for (int j = 2; j <= sqrt(n); j++) {
