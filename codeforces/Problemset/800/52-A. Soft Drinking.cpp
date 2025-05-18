@@ -2,6 +2,7 @@
 
 using namespace std;
 // https://codeforces.com/problemset/problem/151/A
+// O(1)
 int main () {
     int n, k, l, c, d, p, nl, np;
     cin >> n >> k >> l >> c >> d >> p >> nl >> np;
